@@ -1,0 +1,56 @@
+[
+    {
+        "id": 2,
+        "nickname": "SkyWalker",
+        "firstname": "Jane",
+        "lastname": "Smith",
+        "status": "inactive",
+        "grades": [
+            92,
+            88,
+            81
+        ],
+        "questions": [
+            "What is your hometown?",
+            "What is your mother's maiden name?"
+        ],
+        "password": "securePass@2024"
+    },
+    {
+        "id": 3,
+        "nickname": "QuantumGeek",
+        "firstname": "Emily",
+        "lastname": "Brown",
+        "status": "active",
+        "grades": [
+            89,
+            93,
+            87
+        ],
+        "questions": [
+            "What is the name of your first school?",
+            "What is your favorite food?"
+        ],
+        "password": "qWeRtY#5678"
+    },
+    {
+        "id": 4,
+        "nickname": "AnushkaTopushka",
+        "firstname": "Anushka",
+        "lastname": "Gexapetyanovich",
+        "status": "God",
+        "grades": [],
+        "questions": [],
+        "password": "818489a8e0d24fbe19dc4f523309c6051cfdd05388d707644c418a50c758f4b2"
+    },
+    {
+        "id": 5,
+        "nickname": "AceCoder",
+        "firstname": "Aced",
+        "lastname": "Coder",
+        "status": "Instructor",
+        "grades": [],
+        "questions": [],
+        "password": "f3d23cc621cb4220e5972faa9b89aa3bfabb2a241c1a59c21bd7ffe17867e1a0"
+    }
+]
