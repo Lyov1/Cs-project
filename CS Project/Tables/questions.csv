@@ -56,3 +56,33 @@ id,question,answer1,answer2,answer3,answer4,correct,subject,difficulty
 58,"Find the derivative of x^2",2x,x^3,3x^2,2x^2,answer1,CS101,hard
 59,"What is the integral of 1/x?",ln(x),x^2,1/x,x,answer1,CS101,hard
 60,"What is 7^2?",36,49,56,42,answer2,CS101,medium
+61,"What is the {1,2,3} intersection {1}?",{1,2,3},{2,3},{1},{2},answer3,Discrete,easy
+62,"What is the cardinality of the set {2,5,8}?",1,2,3,4,answer3,Discrete,easy
+63,"What is the sum of first 5 natural numbers?",12,15,17,25,answer2,Discrete,easy
+64,"What is the sum of the first 3 prime numbers?",10,8,11,9,answer1,Discrete,easy
+65,"What is the value of 5!?",120,60,25,10,answer1,Discrete,easy
+66,"Which of these numers is not prime?",3,7,8,11,answer3,Discrete,easy
+67,"Which of these numbers is even?",67,33,15,88,answer4,Discrete,easy
+68,"What is the sum of first 3 natural even numbers?",12,14,5,9,answer1,Discrete,easy
+69,"How many elements are in empty set?",0,1,2,3,answer1,Dicrete,easy
+70,"What is the union of {1} and {5}?",15,{1,5}, and1,{5},answer3,Discrete,easy
+71,"What remainder will be 14 divided by 6?",1,2,3,4,answer2,Discrete,medium
+72,"How many elements are in Cartesian product {1,2} and {2,3}?",1,2,6,4,answer4,Discete,medium
+73,"Which of the followin is subset of {1,2}?",1,2,{1,3},{1,2},answer4,Discrete,medium
+74,"What is the 3 mod2?,0,1,2,3,answer2,Discrete,medium
+75,"What is the union of {1,6,7} and {4,6,1}?",{1,6},{1,6,7,4},{1,4,7},{4,6,1},answer2,Discrete,medium
+76,"How many subsets have the set containing 4 elements?",16,8,4,0,answer1,Discrete,medium
+77,"Which of the following is set?",abc,{a,b,c},(a,b),a-b,answer2,Discrete,medium
+78,"What is the GCD of 12 and 8?",12,8,4,20,answer3,Discrete,medium
+79,"How many divisors does 9 have?",1,2,3,4,answer3,Discrete,medium
+80,"How many binary strings of lenght 3 are there?",8,6,3,10,answer1,Discrete,medium
+81,"What is the GCD of 48 and 18?",6,12,48,18,answer1,Discrete,hard
+82,"What is the LCM of 9 and 12?",9,12,36,21,answer3,Discrete,hard
+83,"What relation it is if aRa holds for every elements?",reflexive,transitive,symmetric,irreflexive,answer1,Discrete,hard
+84,"What relation it is if aRa does not hold for each elements?",reflexive,transitive,symmetric,irreflexive,answer4,Discrete,hard
+85,"Which of the following numbers is divisible by 3"?,1289,5682,9101,4249,answer2,Discrete,hard
+86,"Which of the following relations is transitive?",{(1,2),(2,3),(1,3)},{(1,2),(2,3),(3,1)},{(1,1),(2,2)},{(1,2),(3,4)},answer1,Discrete
+87,"What is the symmetric difference of {1,2,3} and {2,3,4}?",{1,4},{1,2,3,4},{2,3},{2,3,4},answer1,Discrete,hard
+88,"How many numbers 0-100 are divisible by 3?",31,32,33,34,answer4,Discrete,hard
+89,"How many 3-digit numbers contain exactly one 2?",224,225,226,227,answer2,Discrete,hard
+90,"What relation is it if from aRb implies bRa?",reflexive,transitive,symmetric,irreflexive,answer3,Discrete,hard
